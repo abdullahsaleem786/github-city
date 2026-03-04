@@ -10,6 +10,8 @@
 
 ---
 
+![GitHub City Demo](github-city.gif)
+
 ## ✨ Live Demo
 
 🔗 **([https://github-city.vercel.app/?user=abdullahsaleem786](https://github-city-alpha.vercel.app/))**

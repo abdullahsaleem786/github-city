@@ -14,10 +14,7 @@ const BUILDING_COLORS = [
 
 const WINDOW_ON  = "#fffde7";
 const WINDOW_OFF = "#1a1a2e";
-const SKY_DAY    = ["#0f2027", "#203a43", "#2c5364"];
 const GROUND_COL = "#0a0a0f";
-
-function lerp(a, b, t) { return a + (b - a) * t; }
 
 function getBuildingTier(commits) {
   if (commits === 0) return 0;
